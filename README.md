@@ -1,4 +1,4 @@
-COde Refactor Assignment
+Code Refactor Assignment
 
 Goal:
 
