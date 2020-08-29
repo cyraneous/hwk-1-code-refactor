@@ -12,7 +12,7 @@ This homework assignment was to refactor existing code by making the page fully 
 
 Snapshots:  
 
-[Alt-text] (https://drive.google.com/file/d/1_uOFCqZiHpgRmehkTQhKu5_YIwbXKFzU/view?usp=sharing)
+[Alt-text] https://drive.google.com/file/d/1_uOFCqZiHpgRmehkTQhKu5_YIwbXKFzU/view?usp=sharing
 
 License: This project is licensed under the terms of the MIT license.
 
