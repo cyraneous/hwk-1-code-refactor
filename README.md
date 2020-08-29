@@ -12,7 +12,7 @@ This homework assignment was to refactor existing code by making the page fully 
 
 Snapshots:  
 
-[Alt-text] https://github.com/cyraneous/hwk-1-code-refactor/blob/master/assets/Homework%201-1.JPG
+[Alt-text] https://raw.githubusercontent.com/cyraneous/hwk-1-code-refactor/master/assets/Homework%201-1.JPG
 
 License: This project is licensed under the terms of the MIT license.
 
